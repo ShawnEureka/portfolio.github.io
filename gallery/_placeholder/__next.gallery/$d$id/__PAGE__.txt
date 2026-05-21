@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[41453,["/portfolio.github.io/_next/static/chunks/01xlw8hd842-c.js","/portfolio.github.io/_next/static/chunks/0-mla.nmfqw.d.js","/portfolio.github.io/_next/static/chunks/0g-hqp_j27b64.js","/portfolio.github.io/_next/static/chunks/0j94j7gwj0..u.js","/portfolio.github.io/_next/static/chunks/15erogy-c5.9j.js"],"default"]
+3:I[97367,["/portfolio.github.io/_next/static/chunks/01xlw8hd842-c.js","/portfolio.github.io/_next/static/chunks/0-mla.nmfqw.d.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"id":"_placeholder"}],[["$","script","script-0",{"src":"/portfolio.github.io/_next/static/chunks/0g-hqp_j27b64.js","async":true}],["$","script","script-1",{"src":"/portfolio.github.io/_next/static/chunks/0j94j7gwj0..u.js","async":true}],["$","script","script-2",{"src":"/portfolio.github.io/_next/static/chunks/15erogy-c5.9j.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"P6CDbcOai7XYSUEr7t8Cy"}
+5:null
